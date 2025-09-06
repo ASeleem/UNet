@@ -1,0 +1,11 @@
+torch==2.6.0+cu126
+torchvision==0.21.0+cu126
+kfp==2.14.3
+kfp-pipeline-spec==2.14.0
+kfp-server-api==2.14.3
+matplotlib==3.10.6
+pillow==11.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
